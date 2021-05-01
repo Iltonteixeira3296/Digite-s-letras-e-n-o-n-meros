@@ -1,5 +1,6 @@
 # Digite só letrasn e não numeros
 
+
 EXERCICIOS DE INICIANTE DE PYTHON.
 nome = str(input('Digite seu primeiro nome: '))
 tamanho = len(nome)
